@@ -1,7 +1,7 @@
 # Project Overview
 
 **Description**
-This project analyzes a dataset of employees, exploring various attributes such as salary, age, height, position, and team distribution. The analysis includes data preprocessing, exploratory data analysis (EDA), graphical representation, and correlation insights to uncover meaningful patterns.
+This project analyzes a dataset of employees of  ABC company, exploring various attributes such as salary, age, height, position, and team distribution. The analysis includes data preprocessing, exploratory data analysis (EDA), graphical representation, and correlation insights to uncover meaningful patterns.
 
 # Preprocessing Steps
 
@@ -53,3 +53,6 @@ The dataset showed limited representation in higher age groups (41+).
 **Salary Trends:**
 Salary expenditures varied significantly across teams and positions.
 A weak positive correlation between age and salary was observed.
+
+**Data set link :**
+https://docs.google.com/spreadsheets/d/1VP9BE_eI2yl6uUHSm4mGiiwjRdoqCqnkcIjsv5Q2ex4/edit?usp=share_link
